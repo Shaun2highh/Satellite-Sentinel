@@ -5,4 +5,7 @@ __pycache__/
 *.pyo
 *.pyd
 .DS_Store
-.env
+.envsentinel_env/
+venv/
+__pycache__/
+*.pyc
